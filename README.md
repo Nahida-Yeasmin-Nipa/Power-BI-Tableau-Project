@@ -1,26 +1,29 @@
 # Power-BI-Tableau-Project
 Data analysis and visualization with Power BI and Tableau
-# Power BI and Tableau Projects
-
-This repository showcases two interactive data visualization projects built in Power BI and Tableau.
+This repository includes dashboards built with Power BI and Tableau.
 
 ---
 
-## Power BI Project: Sales Dashboard
-**File**: `sales_dashboard.pbix`
+##  Power BI Dashboards
 
-### Description:
-A dynamic dashboard showing KPIs, sales trends, regional performance, and category-wise breakdowns.
+### Dashboard 1
 
-### Screenshot:
-![Power BI Dashboard](Power BI 1 SS.png)
+![Power BI Dashboard 1](Power BI 1 SS.jpg)
 
-## Tableau Project: Superstore Analysis
-**File**: `superstore_analysis.twbx`
+### Dashboard 2
 
-### Description:
-An interactive dashboard analyzing sales, profit, and shipping trends using the Sample Superstore dataset.
+![Power BI Dashboard 2](Power BI 2 SS.jpg)
 
-### Screenshot:
-![Tableau Dashboard](Tableau 1 SS.png)
+---
+
+## 🔶 Tableau Dashboards
+
+### Visualization 1
+
+![Tableau Visualization 1](Tableau 1 SS.jpg)
+
+### Visualization 2
+
+![Tableau Visualization 2](Tableau 2 SS.jpg)
+
 
